@@ -1,0 +1,5 @@
+export const ACTION_TYPE = 'ACTION_TYPE'
+export const CREATE_POST = 'CREATE_POST'
+export const FETCH_POSTS = 'FETCH_POSTS'
+export const DELETE_POSTS = 'DELETE_POSTS'
+export const EDIT_POST = 'EDIT_POST'
